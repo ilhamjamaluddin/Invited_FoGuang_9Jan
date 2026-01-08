@@ -32,4 +32,3 @@ The dataset for semantic segmentation using satellite imagery can be downloaded 
 ---
 ## License
 This repository is provided for **educational and academic purposes**.  
-Please give appropriate credit if you use or adapt the materials.
